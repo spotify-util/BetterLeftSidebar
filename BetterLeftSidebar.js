@@ -13,7 +13,7 @@
         //remove the second section entitled "Your Library"
         REMOVE_YOUR_LIBRARY: false,
         //remove the third section entitled "Playlists"
-        REMOVE_PLAYLISTS: true,
+        REMOVE_PLAYLISTS: false,
         //change the position of each item under "Your Library". 0 removes the item from the section
         YOUR_LIBRARY_SORTING: {
             "Made For You":       1,
