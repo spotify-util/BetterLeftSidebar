@@ -58,6 +58,7 @@
     CONFIG.REMOVE_LEFT_SIDEBAR && document.querySelector('#menu-wrapper').remove();
     CONFIG.REMOVE_TOP_SECTION && top_section.remove();
     CONFIG.REMOVE_YOUR_LIBRARY && your_library.remove();
+    CONFIG.REMOVE_PLAYLISTS && playlists.remove();
 
     //change "Your Library" list order
     your_library.querySelector('ul').innerHTML = '';
