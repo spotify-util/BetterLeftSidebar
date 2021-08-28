@@ -8,7 +8,7 @@ This extension is reasonably simple. It reads pre-set options from a configurati
 - Remove the left sidebar entirely
 - Remove anything playlist-related, including the "Create Playlist" button
 
-It strictly affects the DOM alone and should therefore be compatable with any theme. It also compatible with the "sidebar config" mode added with Spicetify 2.3.0
+It strictly affects the DOM alone and should therefore be compatible with any theme. It also compatible with the "sidebar config" mode added with Spicetify 2.3.0
 
 ## How to install it
 Make sure you have a functioning install of [Spicetify](https://github.com/khanhas/spicetify-cli/) (> v2.1.0). Download the file in this repository called `BetterLeftSidebar.js` and place this file inside your `.spicetify/Extensions` folder. If this is your first time downloading an extension, you may want to reference [this](https://github.com/khanhas/spicetify-cli/wiki/Extensions) document.
