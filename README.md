@@ -8,7 +8,7 @@ This extension is reasonably simple. It reads pre-set options from a configurati
 - Remove the left sidebar entirely, as well as its individual sections (Top/Your Library/Playlists)
 - Rearrange or remove any items under the "Your Library" section
 
-It strictly affects the DOM alone and should therefore be compatable with any theme.
+It strictly affects the DOM alone and should therefore be compatible with any theme.
 
 ## How to install it
 Make sure you have a functioning install of legacy [Spicetify](https://github.com/khanhas/spicetify-cli/) (v1.2.1). Download the file in this repository called `BetterLeftSidebar.js` and place this file inside your `.spicetify/Extensions` folder. If this is your first time downloading an extension, you may want to reference [this](https://github.com/khanhas/spicetify-cli/wiki/Extensions) document.
